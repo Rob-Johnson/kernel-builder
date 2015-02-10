@@ -1,6 +1,8 @@
 # Kernel Builder
 
-Compiles the linux kernel inside a Debian:Jessie Docker container using a given configuration.
+Compiles the linux kernel inside a Debian Jessie Docker container.
+
+I've extracted the commands from [this](https://blog.jessfraz.com/posts/linux-on-mac.html) great guide on running Jessie on a Macbook Pro. 
 
 Usage:
 
